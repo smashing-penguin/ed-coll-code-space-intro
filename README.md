@@ -1,1 +1,1 @@
-Files and assignments related to course 'CodeSpace - Induction'
+Files and assignments related to 'CodeSpace - Induction'
